@@ -35,7 +35,7 @@ public class tut_017_relational_logical_operators {
         }
         System.out.println("Value of a is "+a);
         System.out.println("Value of b is "+b);
-        System.out.println("Value of not of a (!a) is "+!a);
-        System.out.println("Value of not of a (!b) is "+!b);
+        System.out.println("Value of not of a (!a)  is "+!a);
+        System.out.println("Value of not of a (!b)  is "+!b);
     }
 }
