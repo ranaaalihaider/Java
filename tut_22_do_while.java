@@ -3,7 +3,7 @@ public class tut_22_do_while {
         int number=5;
         do {
             System.out.println("Do PART OF DO While loop");
-            number=number-1;
+            number=number
         } while (number>1);
     }
 }
