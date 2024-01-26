@@ -1,7 +1,7 @@
 public class tut_29_06_array_practise {
     public static void main(String[] args) {
         //Reversing Array with  Swaping Method
-        int [] numbers={11,22,33,44,55,66,77,88,99};
+        int [] numbers={11,22,33,44,55,66,77,88,99,100,200,300,400,500,600,700,800,900};
         System.out.print("Without Swap Results are : ");
         for(int element:numbers){
             System.out.print(element+" ");
