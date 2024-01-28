@@ -1,4 +1,4 @@
-public class tut_33_factorail {
+public class tut_34_factorail {
     static int factorail(int number){
         int sum;
         if (number==0 || number==1) {
