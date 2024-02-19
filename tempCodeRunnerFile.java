@@ -1,1 +1,8 @@
-x
+int a = 10;
+        int c = 20;
+        String b="Hello";
+        System.out.println(a);
+        System.out.println(c);
+        System.out.println(b);
+        int sum=a+c;
+        System.out.println(sum);
