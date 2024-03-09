@@ -1,5 +1,11 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.assignment_1;
 import java.util.Scanner;
-public class Question_04 {
+public class Question4 
+{
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
         System.out.print("Enter value of a : ");
@@ -12,7 +18,6 @@ public class Question_04 {
         x=Math.pow(x, 0.5);
         double result_1=((-b)+x)/(2*a);
         double result_2=((-b)-x)/(2*a);
-        System.out.println(x);
         if (x==0) 
         {   
             System.out.printf("This equation has one root %.4f",result_1);
@@ -29,4 +34,5 @@ public class Question_04 {
         }
         
     }
+    
 }
