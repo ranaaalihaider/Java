@@ -32,6 +32,5 @@ public class Question9
         {
             System.out.println("Wrong Input. Please Enter 3 Digit Number.");
         }
-
     }
 }
