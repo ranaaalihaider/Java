@@ -12,12 +12,6 @@ public class Question8
             result=(number*i)+result;
         }
         System.out.println(result);
-        for(int i=9;i>=1;i--)
-        {
-            result=result%i;
-            System.out.print(result);
-        }
-        result=(result%11);
-        System.out.print(result);
+        
     }
 }

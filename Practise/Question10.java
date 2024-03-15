@@ -23,6 +23,5 @@ public class Question10
         {
             System.out.println("Wrong Input. Please Enter 0 or 1");
         }
-
     }
 }
