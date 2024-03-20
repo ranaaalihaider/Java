@@ -10,5 +10,6 @@ public class Square_Cube_Table
             System.out.printf("%d%7d%7d\n",i,square,cube);
 
         }
+        
     }
 }
