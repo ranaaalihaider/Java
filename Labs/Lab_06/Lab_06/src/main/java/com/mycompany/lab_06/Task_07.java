@@ -4,7 +4,7 @@ public class Task_07
 {
     public static void main(String[] args) {
                 Scanner input= new Scanner (System.in);
-        System.out.print("Enter Two words seprated by space : ");
+        System.out.print("Enter Word : ");
         String word=input.next();
         int index1=word.indexOf('f');
         int index2=word.lastIndexOf('f');
