@@ -5,6 +5,7 @@ import javax.swing.JTextField;
 import javax.swing.JOptionPane;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.FlowLayout;
 public class GUI3 extends JFrame
 {
     public GUI3()
